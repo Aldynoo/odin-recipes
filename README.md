@@ -4,7 +4,7 @@ This project is presentation of my current knowledge of HTML.
 I gained knowledge and insights of:
 
 Basic boilerplate knowledge and speed typing!
-<h1> - <h6> header tags and how to use them.
-<p> how to effectively use paragraphs.
-<a href> and <img src> + their description tags such as <alt>, <height> and <width>.
-<ol>, <ul> and <li> effective use of lists.
+h1 - h6 -> header tags and how to use them.
+p -> how to effectively use paragraphs.
+a href and img src -> + their description tags such as -> alt, height and width.
+ol, ul and li -> how to use lists so the page looks cleaner.
